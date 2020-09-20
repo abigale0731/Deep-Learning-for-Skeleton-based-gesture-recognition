@@ -14,4 +14,4 @@ then run:
 python main.py recognition -c config/sig_st_gcn/<dataset>/train.yaml [--work_dir <work folder>]
 
 ## Supplement
-The code about ST-GCN  comes from https://github.com/yysijie/st-gcn/
+The code about ST-GCN network comes from https://github.com/yysijie/st-gcn/
